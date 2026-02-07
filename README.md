@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there I am Sreelakshmi.S 👋
+Computer Science student
+Learning Python, Data Analytics, and GitHub
+Interested in Data Analytics and Machine Learning
 
-<!--
-**Sreelakshmi144/Sreelakshmi144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+-Python
+-Data Analytics
+-GitHub
+-SQL(Beginner)
 
-Here are some ideas to get you started:
+Currently Learning
+-Machine Learning basics
+-Data Visualization
+-Open-source collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
